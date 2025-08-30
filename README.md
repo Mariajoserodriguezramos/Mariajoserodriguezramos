@@ -1,10 +1,12 @@
 # María José — GitHub Profile README
 
+<!-- Header -->
 <div align="center">
   <a href="https://github.com/mariajoserodriguezramos" target="_blank" rel="noopener">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FDE2E4,100:CDEAF7&height=220&section=header&text=Mar%C3%ADa%20Jos%C3%A9&fontSize=44&fontAlign=50&fontAlignY=35&fontColor=2d2a32&desc=Developer%20%C2%B7%20Helpdesk&descAlign=50&descAlignY=65" alt="Hero banner" />
+    <img src="./assets/header-sunset.svg" alt="María José — Developer · Helpdesk">
   </a>
 </div>
+
 
 <h1 align="center">Hello everyone 👋</h1>
 <h3 align="center">Learning as a lifestyle</h3>
@@ -60,6 +62,8 @@ Outside of programming, you'll find me cooking, doing sport, or watching program
 
 <br>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CDEAF7,100:FDE2E4&height=120&section=footer" alt="Footer banner" />
+  <img src="./assets/footer-sunset.svg" alt="Footer banner">
 </div>
+
