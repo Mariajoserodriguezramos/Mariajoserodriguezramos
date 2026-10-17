@@ -74,7 +74,7 @@ const currentFocus = {
 </h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/mar%C3%ADa-jos%C3%A9-rodriguezramos"><img src="https://img.shields.io/badge/LinkedIn_%E2%86%97-1F2328?style=for-the-badge" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/maria-jose-rodriguezramos"><img src="https://img.shields.io/badge/LinkedIn_%E2%86%97-1F2328?style=for-the-badge" alt="LinkedIn" /></a>
   <a href="https://github.com/mariajoserodriguezramos"><img src="https://img.shields.io/badge/GitHub_%E2%86%97-1F2328?style=for-the-badge" alt="GitHub" /></a>
   <a href="mailto:mariajoserodriguezramos@outlook.com"><img src="https://img.shields.io/badge/Email_%E2%86%97-1F2328?style=for-the-badge" alt="Email" /></a>
 </p>
